@@ -112,11 +112,11 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software developer"
   location         : "Madison, WI, USA"
-  email            :
+  email            : mailto:abhirav.gholba@wisc.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:abhirav.gholba@wisc.edu
+      #url: mailto:abhirav.gholba@wisc.edu
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/agholba/"
