@@ -1,12 +1,12 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Experience"
+    url: https://abhiravg.github.io/
+  - title: "Education"
+    url: https://abhiravg.github.io/
+  - title: "Projects"
+    url: https://abhiravg.github.io/
+  - title: "Posts"
+    url: https://abhiravg.github.io/
+  - title: "Resume PDF"
+    url: https://abhiravg.github.io/
